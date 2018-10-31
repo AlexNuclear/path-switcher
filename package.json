@@ -1,0 +1,20 @@
+{
+  "name": "path-switcher",
+  "version": "1.0.0",
+  "description": "Парсер,который поможет автоматизировать проставление путей с локальных на пути сервера в html и css файлах.При наличии времен прикручу запросы к каким-нибудь API,для ужимания графики или валидации кода.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexNuclear/path-switcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexNuclear/path-switcher/issues"
+  },
+  "homepage": "https://github.com/AlexNuclear/path-switcher#readme"
+}
